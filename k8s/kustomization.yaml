@@ -6,4 +6,4 @@ resources:
 images:
 - name: goserver
   newName: rafaelpaes/gitopsvia
-  newTag: teste
+  newTag: 7a926eea3248988daca7e199f2f86025f82cc2c9
